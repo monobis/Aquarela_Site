@@ -9,6 +9,7 @@ body {
   background-color: #FFFFFF;
 }
 
+
 body::after {
   content: "";
   position: absolute;
@@ -94,25 +95,17 @@ nav a.quiz-button:hover {
   transition: 0.3s;
 }
 
-.hero {
-  padding: 0;
-  margin: 0;
-  line-height: 0;
-}
-
-
 .hero img {
-  display: block;
   width: 100%;
   height: auto;
-  margin: 0;
-  padding: 0;
+  display: block;
+  margin-top: -10px;
   object-fit: cover;
 }
 
 section {
-  padding: 2rem 2rem 0 2rem;
-  max-width: 95%;
+  padding: 2rem;
+  max-width: 1350px;
   margin: auto;
 }
 
@@ -263,6 +256,3 @@ footer {
     height: 350px;
   }
 }
-
-
-
