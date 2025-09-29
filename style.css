@@ -250,7 +250,7 @@ footer {
   }
 
   .aquarela img {
-    max-width: 80%;
+    max-width: 45%;
     margin-top: -50px;
     transform: rotate(-15deg);
   }
@@ -260,5 +260,6 @@ footer {
     height: 350px;
   }
 }
+
 
 
