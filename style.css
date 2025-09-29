@@ -100,17 +100,19 @@ nav a.quiz-button:hover {
   line-height: 0;
 }
 
+
 .hero img {
+  display: block;
   width: 100%;
   height: auto;
-  display: block;
-  margin-top: -10px;
+  margin: 0;
+  padding: 0;
   object-fit: cover;
 }
 
 section {
-  padding: 2rem;
-  max-width: 1350px;
+  padding: 2rem 2rem 0 2rem;
+  max-width: 95%;
   margin: auto;
 }
 
@@ -261,4 +263,5 @@ footer {
     height: 350px;
   }
 }
+
 
