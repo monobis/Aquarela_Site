@@ -1,3 +1,14 @@
+Sem problemas\! Entendi que você precisa do código limpo, sem os comentários de explicação.
+
+Aqui está o seu código CSS completo, com a correção do **`box-sizing: border-box`** e o **`max-width: 1480px`** na seção, pronto para ser usado:
+
+-----
+
+```css
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -255,5 +266,4 @@ footer {
     height: 350px;
   }
 }
-
-
+```
